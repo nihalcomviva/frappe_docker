@@ -45,9 +45,6 @@ docker run -d \
 
 Access Grafana UI: http://localhost:3000 (default: admin/admin)
 
-Added Prometheus as data source:
-
-URL: http://host.docker.internal:9090
 
 Created dashboards to monitor:
 
