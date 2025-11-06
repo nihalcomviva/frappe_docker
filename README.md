@@ -20,3 +20,4 @@ Update the project wiki to enforce that all contributors use their official orga
 - Updated wiki page with the new policy.
 - Screenshot of the wiki page after updating.
 - This report documenting the update process and its significance.
+<img width="1908" height="868" alt="image" src="https://github.com/user-attachments/assets/b3c30da6-c370-40d0-8b27-32d221f0ec4e" />
