@@ -83,11 +83,6 @@ log_rotate.sh — Script for automated log rotation.
 
 Documentation (this README) describing the setup, process, and outcome.
 
-References
-
-Frappe Docker Repository: https://github.com/frappe/frappe_docker
-
-Frappe Discuss Forum: https://discuss.frappe.io
 
 Docker & ERPNext Installation Guide: Step-by-step tutorial
 
